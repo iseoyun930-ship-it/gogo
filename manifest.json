@@ -1,0 +1,13 @@
+{
+    "display_name": "ST Phone - 폰·SNS 시뮬레이터",
+    "loading_order": 20,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "YOUR_NAME",
+    "version": "1.0.0",
+    "homePage": "https://github.com/YOUR_GITHUB_ID/st-phone",
+    "auto_update": true,
+    "minimum_client_version": "1.12.0"
+}
